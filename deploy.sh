@@ -21,6 +21,9 @@ npm install
 # Generate Encryption key
 php artisan key:generate
 
+# Migrate any new tables
+php artisan migrate
+
 # Run build
 npm run build
 
