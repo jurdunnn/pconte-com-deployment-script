@@ -37,4 +37,4 @@ sudo mv ~/sites/pconte-com ./
 sudo chown -R www-data:www-data pconte-com 
 
 # Set permissions
-sudo chmon -R 775 pconte-com
+sudo chmod -R 775 pconte-com
